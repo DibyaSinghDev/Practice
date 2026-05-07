@@ -23,6 +23,7 @@ public class BinarySearch {
         }
         if(found!=true){
             System.out.println("Element not found");
+            System.out.println("Dibya");
         }
 
     }
